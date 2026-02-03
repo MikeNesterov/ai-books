@@ -233,9 +233,10 @@
             
             let html = '<div class="books-grid">';
             data.books.forEach((book, i) => {
+                const coverUrl = book.cover ? encodeURI(book.cover) : '';
                 html += `
                     <div class="book-card" onclick="showBook(${i})">
-                        <div class="book-cover" style="background-image: url('${book.cover || ''}')"></div>
+                        <div class="book-cover" style="background-image: url('${coverUrl}')"></div>
                         <div class="book-info">
                             <div class="book-title">${book.title}</div>
                             <div class="book-desc">${book.description}</div>
@@ -303,7 +304,8 @@
             
             let imageHtml;
             if (page.image) {
-                imageHtml = `<img src="${page.image}" alt="Страница ${page.number}" onerror="this.parentElement.innerHTML='<div class=\\'no-image\\'>Изображение не найдено</div>'">`;
+                const encodedPath = encodeURI(page.image);
+                imageHtml = `<img src="${encodedPath}" alt="Страница ${page.number}" onerror="this.parentElement.innerHTML='<div class=\\'no-image\\'>Изображение не найдено</div>'">`;
             } else {
                 imageHtml = `<div class="no-image">🎨 Изображение ещё не создано</div>`;
             }
