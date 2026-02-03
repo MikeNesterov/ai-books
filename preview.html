@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Комиксы Ивана — Превью</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Georgia', serif;
+            background: #1a1a2e;
+            color: #eee;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 20px;
+        }
+        h1 {
+            color: #ffd700;
+            margin-bottom: 20px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+        }
+        .book-spread {
+            display: flex;
+            max-width: 1200px;
+            background: #fff;
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.5);
+        }
+        .text-page {
+            flex: 1;
+            padding: 40px;
+            background: #fffef5;
+            color: #333;
+            font-size: 16px;
+            line-height: 1.8;
+            max-width: 400px;
+        }
+        .text-page p {
+            margin-bottom: 1em;
+            text-indent: 1.5em;
+        }
+        .text-page p:first-child {
+            text-indent: 0;
+            font-size: 1.2em;
+            font-weight: bold;
+            color: #8b4513;
+        }
+        .image-page {
+            flex: 1;
+            max-width: 500px;
+        }
+        .image-page img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+        .nav {
+            margin-top: 20px;
+            display: flex;
+            gap: 10px;
+        }
+        .nav button {
+            padding: 10px 20px;
+            font-size: 16px;
+            border: none;
+            border-radius: 5px;
+            background: #ffd700;
+            color: #1a1a2e;
+            cursor: pointer;
+        }
+        .nav button:hover { background: #ffed4a; }
+        .page-info {
+            color: #888;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>📖 Комиксы Ивана</h1>
+    
+    <div class="book-spread">
+        <div class="text-page">
+            <p>Время остановилось.</p>
+            <p>Перед ней стоял Он. Тобиас. Древний дух леса, которого она видела вчера среди молний и ломающихся деревьев. Тот, от чьей ярости содрогались джунгли.</p>
+            <p>В голове Джоаны пронеслись образы: падающее дерево, вспышка золотого света, тепло в ладонях. Она вспомнила, как это было — момент, когда страх уступил место чему-то большему.</p>
+            <p>Она закрыла глаза. Глубокий вдох. Выдох.</p>
+            <p>Когда она открыла их снова, в её руках уже был Лук. Золотые кристаллы мерцали, готовые к бою.</p>
+        </div>
+        <div class="image-page">
+            <img src="Главы/Глава 02/Страница 04/render.png" alt="Страница 4">
+        </div>
+    </div>
+    
+    <div class="nav">
+        <button>← Назад</button>
+        <button>Вперёд →</button>
+    </div>
+    <div class="page-info">Глава 2, Страница 4 из 7</div>
+</body>
+</html>
