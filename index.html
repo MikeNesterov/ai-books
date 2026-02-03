@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Комиксы Ивана</title>
+    <title>Книги Ивана</title>
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
         body {
@@ -11,59 +11,111 @@
             background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
             color: #eee;
             min-height: 100vh;
-            padding: 20px;
         }
-        .container { max-width: 1300px; margin: 0 auto; }
+        
+        /* Header */
+        header {
+            text-align: center;
+            padding: 40px 20px;
+            background: rgba(0,0,0,0.3);
+        }
         h1 {
-            text-align: center;
             color: #ffd700;
-            margin-bottom: 10px;
-            font-size: 2.5em;
+            font-size: 2.8em;
             text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+            margin-bottom: 10px;
         }
-        .subtitle {
-            text-align: center;
-            color: #888;
-            margin-bottom: 30px;
-        }
-        .nav-chapters {
+        .subtitle { color: #aaa; font-size: 1.1em; }
+        
+        /* Navigation */
+        .breadcrumb {
+            padding: 15px 20px;
+            background: rgba(0,0,0,0.2);
             display: flex;
-            justify-content: center;
+            align-items: center;
             gap: 10px;
-            margin-bottom: 30px;
             flex-wrap: wrap;
         }
-        .nav-chapters button {
-            padding: 12px 24px;
-            font-size: 16px;
-            border: 2px solid #ffd700;
-            border-radius: 25px;
-            background: transparent;
+        .breadcrumb a, .breadcrumb span {
             color: #ffd700;
+            text-decoration: none;
             cursor: pointer;
-            transition: all 0.3s;
         }
-        .nav-chapters button:hover, .nav-chapters button.active {
-            background: #ffd700;
-            color: #1a1a2e;
+        .breadcrumb a:hover { text-decoration: underline; }
+        .breadcrumb .separator { color: #666; }
+        
+        /* Main content */
+        .container { max-width: 1400px; margin: 0 auto; padding: 30px 20px; }
+        
+        /* Books Grid */
+        .books-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 30px;
         }
+        .book-card {
+            background: rgba(255,255,255,0.05);
+            border-radius: 15px;
+            overflow: hidden;
+            cursor: pointer;
+            transition: transform 0.3s, box-shadow 0.3s;
+        }
+        .book-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 15px 40px rgba(255,215,0,0.2);
+        }
+        .book-cover {
+            height: 250px;
+            background-size: cover;
+            background-position: center;
+        }
+        .book-info { padding: 20px; }
+        .book-title { color: #ffd700; font-size: 1.4em; margin-bottom: 10px; }
+        .book-desc { color: #aaa; line-height: 1.6; }
+        
+        /* Chapters List */
+        .chapters-list { display: flex; flex-direction: column; gap: 15px; }
+        .chapter-card {
+            background: rgba(255,255,255,0.05);
+            border-radius: 10px;
+            padding: 20px 25px;
+            cursor: pointer;
+            transition: background 0.3s;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .chapter-card:hover { background: rgba(255,215,0,0.1); }
+        .chapter-number {
+            color: #ffd700;
+            font-size: 2em;
+            font-weight: bold;
+            margin-right: 20px;
+        }
+        .chapter-title { font-size: 1.3em; }
+        .chapter-pages { color: #888; }
+        
+        /* Book Reader */
         .book-spread {
             display: flex;
             background: #fff;
             border-radius: 12px;
             overflow: hidden;
             box-shadow: 0 20px 60px rgba(0,0,0,0.5);
-            margin-bottom: 20px;
+            min-height: 600px;
         }
         .text-page {
             flex: 1;
             padding: 50px 40px;
             background: linear-gradient(to right, #fffef5, #fff8e7);
             color: #333;
-            font-size: 17px;
-            line-height: 1.9;
-            max-width: 450px;
+            font-size: 18px;
+            line-height: 2;
+            max-width: 500px;
             border-right: 1px solid #e0d5c0;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
         }
         .text-page p {
             margin-bottom: 1.2em;
@@ -71,31 +123,41 @@
         }
         .text-page p:first-child {
             text-indent: 0;
-            font-size: 1.3em;
+            font-size: 1.2em;
             font-weight: bold;
             color: #8b4513;
         }
         .image-page {
-            flex: 1.2;
+            flex: 1.3;
             display: flex;
             align-items: center;
             justify-content: center;
             background: #111;
+            min-height: 500px;
         }
         .image-page img {
             max-width: 100%;
-            max-height: 700px;
+            max-height: 650px;
             object-fit: contain;
         }
+        .image-page .no-image {
+            color: #555;
+            font-style: italic;
+            text-align: center;
+            padding: 40px;
+        }
+        
+        /* Page Navigation */
         .page-nav {
             display: flex;
             justify-content: center;
             align-items: center;
-            gap: 20px;
-            margin-top: 20px;
+            gap: 25px;
+            margin-top: 25px;
+            flex-wrap: wrap;
         }
         .page-nav button {
-            padding: 15px 30px;
+            padding: 15px 35px;
             font-size: 18px;
             border: none;
             border-radius: 8px;
@@ -103,132 +165,177 @@
             color: #1a1a2e;
             cursor: pointer;
             font-weight: bold;
-            transition: transform 0.2s;
+            transition: transform 0.2s, opacity 0.2s;
         }
-        .page-nav button:hover { transform: scale(1.05); }
+        .page-nav button:hover:not(:disabled) { transform: scale(1.05); }
         .page-nav button:disabled { opacity: 0.3; cursor: not-allowed; }
         .page-info {
             color: #ffd700;
             font-size: 1.2em;
+            min-width: 200px;
+            text-align: center;
         }
+        
+        /* Back button */
+        .back-btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            color: #ffd700;
+            text-decoration: none;
+            margin-bottom: 20px;
+            cursor: pointer;
+            font-size: 1.1em;
+        }
+        .back-btn:hover { text-decoration: underline; }
+        
+        /* Responsive */
         @media (max-width: 900px) {
             .book-spread { flex-direction: column; }
             .text-page { max-width: 100%; border-right: none; border-bottom: 1px solid #e0d5c0; }
+            .image-page { min-height: 300px; }
+            h1 { font-size: 2em; }
         }
     </style>
 </head>
 <body>
-    <div class="container">
-        <h1>📖 Комиксы Ивана</h1>
-        <p class="subtitle">Иллюстрированная новелла о Джоане и магическом Луке</p>
-        
-        <div class="nav-chapters">
-            <button class="active" onclick="loadChapter(1)">Глава 1: Пробуждение</button>
-            <button onclick="loadChapter(2)">Глава 2: Первый бой</button>
-        </div>
-        
-        <div class="book-spread">
-            <div class="text-page" id="text-content">
-                <p>Загрузка...</p>
-            </div>
-            <div class="image-page">
-                <img id="page-image" src="" alt="Страница">
-            </div>
-        </div>
-        
-        <div class="page-nav">
-            <button id="prev-btn" onclick="prevPage()">← Назад</button>
-            <span class="page-info" id="page-info">Страница 1</span>
-            <button id="next-btn" onclick="nextPage()">Вперёд →</button>
-        </div>
+    <header>
+        <h1>📚 Книги Ивана</h1>
+        <p class="subtitle" id="header-subtitle">Иллюстрированные истории, созданные с помощью AI</p>
+    </header>
+    
+    <nav class="breadcrumb" id="breadcrumb">
+        <a onclick="showBooks()">Книги</a>
+    </nav>
+    
+    <div class="container" id="content">
+        <p>Загрузка...</p>
     </div>
 
     <script>
-        // Данные глав (можно автоматизировать позже)
-        const chapters = {
-            1: {
-                title: "Пробуждение Силы",
-                pages: [
-                    {
-                        text: `<p>Джунгли Амазонки.</p><p>Джоана стояла на краю поляны, сжимая в руках камеру. Вокруг неё шумел древний лес — тысячелетние деревья уходили в небо, а воздух был настолько влажным, что казалось, можно пить его.</p><p>Это была её первая большая экспедиция. National Geographic. Репортаж о затерянном племени. Мечта, которая наконец сбылась.</p>`,
-                        image: "Главы/Глава 01/Страница 01/render.png"
-                    },
-                    {
-                        text: `<p>— Странно, — прошептал проводник.</p><p>Джоана оторвалась от видоискателя. Птицы замолчали. Обезьяны, секунду назад кричавшие в кронах, исчезли. Лес затих так внезапно, будто кто-то нажал на паузу.</p><p>В воздухе повисло напряжение.</p>`,
-                        image: "Главы/Глава 01/Страница 02/render.png"
-                    }
-                ]
-            },
-            2: {
-                title: "Первый бой",
-                pages: [
-                    {
-                        text: `<p>Фотоаппарат дрожал в её руках.</p><p>Джоана не сразу поняла, что происходит. Сначала она подумала, что это она сама — нервы после вчерашнего. Но нет. Камера вибрировала сама по себе, словно внутри неё билось чужое сердце.</p>`,
-                        image: "Главы/Глава 02/Страница 01/render.png"
-                    },
-                    {
-                        text: `<p>Городской парк был её любимым местом.</p><p>Здесь она гуляла, когда нужно было подумать. Старые дубы, скамейки, фонтан в центре — всё такое знакомое, такое... безопасное.</p><p>Но сегодня что-то было не так. Ветер поднялся слишком резко.</p>`,
-                        image: "Главы/Глава 02/Страница 02/render.png"
-                    },
-                    {
-                        text: `<p>Люди бежали.</p><p>Джоана видела их лица — чистый, первобытный ужас. Они не понимали, что происходит, но инстинкт гнал их прочь.</p><p>Она осталась одна.</p><p>Фотоаппарат в её руках засветился призрачным зелёным светом.</p>`,
-                        image: "Главы/Глава 02/Страница 03/render.png"
-                    },
-                    {
-                        text: `<p>Время остановилось.</p><p>Перед ней стоял Он. Тобиас. Древний дух леса, которого она видела вчера среди молний и ломающихся деревьев.</p><p>Она закрыла глаза. Глубокий вдох. Выдох.</p><p>Когда она открыла их снова, в её руках уже был Лук. Золотые кристаллы мерцали, готовые к бою.</p>`,
-                        image: "Главы/Глава 02/Страница 04/render.png"
-                    },
-                    {
-                        text: `<p>Тобиас ударил первым.</p><p>Его нога врезалась в землю, и парк содрогнулся. Трещины разбежались от точки удара, как паутина. Из них вырвались лианы — толстые, зелёные, живые.</p><p>Они устремились к Джоане.</p>`,
-                        image: "Главы/Глава 02/Страница 05/render.png"
-                    },
-                    {
-                        text: `<p>Джоана видела это ясно, словно время замедлилось.</p><p>Все лианы были связаны. Один источник. Одна точка контроля.</p><p>Она выстрелила.</p><p>Золотая стрела вонзилась в главную лиану — и та стала её. Одно движение мысли, и цепная реакция пошла по всей сети.</p>`,
-                        image: "Главы/Глава 02/Страница 06/render.png"
-                    },
-                    {
-                        text: `<p>Тобиас зарычал.</p><p>Это был звук древнего леса, звук тысячелетней ярости. Но в его глазах Джоана увидела кое-что ещё — удивление.</p><p>Он не ожидал этого.</p><p>Древний бог произнёс что-то на забытом языке и растворился в тенях деревьев.</p><p>Джоана победила. Но она знала — это только начало.</p>`,
-                        image: "Главы/Глава 02/Страница 07/render.png"
-                    }
-                ]
-            }
-        };
-
-        let currentChapter = 2;
+        let data = null;
+        let currentBook = null;
+        let currentChapter = null;
         let currentPage = 0;
 
-        function loadChapter(num) {
-            currentChapter = num;
-            currentPage = 0;
-            document.querySelectorAll('.nav-chapters button').forEach((btn, i) => {
-                btn.classList.toggle('active', i + 1 === num);
+        // Load data
+        fetch('data/content.json')
+            .then(r => r.json())
+            .then(d => {
+                data = d;
+                showBooks();
+            })
+            .catch(e => {
+                document.getElementById('content').innerHTML = '<p>Ошибка загрузки данных</p>';
             });
-            updatePage();
+
+        function showBooks() {
+            currentBook = null;
+            currentChapter = null;
+            document.getElementById('breadcrumb').innerHTML = '<span>📚 Книги</span>';
+            
+            let html = '<div class="books-grid">';
+            data.books.forEach((book, i) => {
+                html += `
+                    <div class="book-card" onclick="showBook(${i})">
+                        <div class="book-cover" style="background-image: url('${book.cover || ''}')"></div>
+                        <div class="book-info">
+                            <div class="book-title">${book.title}</div>
+                            <div class="book-desc">${book.description}</div>
+                        </div>
+                    </div>
+                `;
+            });
+            html += '</div>';
+            document.getElementById('content').innerHTML = html;
         }
 
-        function updatePage() {
-            const chapter = chapters[currentChapter];
-            const page = chapter.pages[currentPage];
+        function showBook(bookIndex) {
+            currentBook = data.books[bookIndex];
+            currentChapter = null;
             
-            document.getElementById('text-content').innerHTML = page.text;
-            document.getElementById('page-image').src = page.image;
-            document.getElementById('page-info').textContent = 
-                `Глава ${currentChapter}, Страница ${currentPage + 1} из ${chapter.pages.length}`;
+            document.getElementById('breadcrumb').innerHTML = `
+                <a onclick="showBooks()">Книги</a>
+                <span class="separator">›</span>
+                <span>${currentBook.title}</span>
+            `;
             
-            document.getElementById('prev-btn').disabled = currentPage === 0;
-            document.getElementById('next-btn').disabled = currentPage === chapter.pages.length - 1;
+            let html = `
+                <a class="back-btn" onclick="showBooks()">← Назад к книгам</a>
+                <h2 style="color: #ffd700; margin-bottom: 30px;">${currentBook.title}</h2>
+                <div class="chapters-list">
+            `;
+            
+            currentBook.chapters.forEach((chapter, i) => {
+                html += `
+                    <div class="chapter-card" onclick="showChapter(${i})">
+                        <div style="display: flex; align-items: center;">
+                            <span class="chapter-number">${chapter.number}</span>
+                            <div>
+                                <div class="chapter-title">${chapter.title}</div>
+                                <div class="chapter-pages">${chapter.pages.length} страниц</div>
+                            </div>
+                        </div>
+                        <span style="color: #ffd700; font-size: 1.5em;">→</span>
+                    </div>
+                `;
+            });
+            
+            html += '</div>';
+            document.getElementById('content').innerHTML = html;
+        }
+
+        function showChapter(chapterIndex) {
+            currentChapter = currentBook.chapters[chapterIndex];
+            currentPage = 0;
+            
+            document.getElementById('breadcrumb').innerHTML = `
+                <a onclick="showBooks()">Книги</a>
+                <span class="separator">›</span>
+                <a onclick="showBook(${data.books.indexOf(currentBook)})">${currentBook.title}</a>
+                <span class="separator">›</span>
+                <span>Глава ${currentChapter.number}</span>
+            `;
+            
+            renderPage();
+        }
+
+        function renderPage() {
+            const page = currentChapter.pages[currentPage];
+            const textHtml = page.text.split('\n\n').map(p => `<p>${p}</p>`).join('');
+            
+            let imageHtml;
+            if (page.image) {
+                imageHtml = `<img src="${page.image}" alt="Страница ${page.number}" onerror="this.parentElement.innerHTML='<div class=\\'no-image\\'>Изображение не найдено</div>'">`;
+            } else {
+                imageHtml = `<div class="no-image">🎨 Изображение ещё не создано</div>`;
+            }
+            
+            const html = `
+                <a class="back-btn" onclick="showBook(${data.books.indexOf(currentBook)})">← Назад к главам</a>
+                
+                <div class="book-spread">
+                    <div class="text-page">${textHtml}</div>
+                    <div class="image-page">${imageHtml}</div>
+                </div>
+                
+                <div class="page-nav">
+                    <button onclick="prevPage()" ${currentPage === 0 ? 'disabled' : ''}>← Назад</button>
+                    <span class="page-info">Глава ${currentChapter.number}, страница ${currentPage + 1} из ${currentChapter.pages.length}</span>
+                    <button onclick="nextPage()" ${currentPage >= currentChapter.pages.length - 1 ? 'disabled' : ''}>Вперёд →</button>
+                </div>
+            `;
+            
+            document.getElementById('content').innerHTML = html;
         }
 
         function prevPage() {
-            if (currentPage > 0) { currentPage--; updatePage(); }
+            if (currentPage > 0) { currentPage--; renderPage(); }
         }
 
         function nextPage() {
-            if (currentPage < chapters[currentChapter].pages.length - 1) { currentPage++; updatePage(); }
+            if (currentPage < currentChapter.pages.length - 1) { currentPage++; renderPage(); }
         }
-
-        // Загрузка при старте
-        loadChapter(2);
     </script>
 </body>
 </html>
