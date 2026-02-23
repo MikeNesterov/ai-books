@@ -1,15 +1,9 @@
 # Strona 07 — tekst po polsku
 
-Ostatnie strony były najbardziej tajemnicze.
+Ostatnie strony pokazały trzy kryształy.
 
-Na pergaminie narysowany był starożytny symbol: trzy kryształy ułożone w trójkąt. Złoty, niebieski i zielony.
+Złoty, niebieski i zielony.
 
-Nad księgą pojawiła się ostatnia wizja — trzy wirujące kryształy.
+Jeden jest już w Łuku Joany. Ale gdzieś na świecie są jeszcze dwa.
 
-„...kto zbierze wszystkie trzy..."
-
-Tekst się urywał.
-
-Joana spojrzała na swoje ręce. Złoty kryształ — w jej Łuku. Ale są jeszcze dwa...
-
-Zamknęła księgę. Czas działać.
+Joana zamknęła księgę. Wiedziała, co robić dalej.

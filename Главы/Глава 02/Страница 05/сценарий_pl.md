@@ -1,11 +1,7 @@
 # Strona 05 — tekst po polsku
 
-Tobiasz uderzył pierwszy.
+Tobiasz uderzył nogą w ziemię. Asfalt pękł!
 
-Jego noga uderzyła w ziemię. Asfalt pękł. Ławki podskoczyły.
-
-Z pęknięć wyползły pnącza — jak zielone węże. Pędziły w stronę Joany.
-
-Tobiasz chciał ją złapać. Unieruchomić.
+Z pęknięć wyползły zielone pnącza — jak węże. Pędziły w stronę Joany.
 
 Joana uniosła Łuk.

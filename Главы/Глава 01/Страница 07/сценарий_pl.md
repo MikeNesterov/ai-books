@@ -1,11 +1,9 @@
 # Strona 07 — tekst po polsku
 
-Joana wypuściła strzałę.
+Joana wystrzeliła. Strzała uderzyła w drzewo i zamieniła się w złotą sieć.
 
-Strzała uderzyła w wielkie drzewo i otworzyła się jak złota sieć. Drzewo zatrzymało się w powietrzu!
+Drzewo zatrzymało się w powietrzu!
 
-Joana poczuła jego ciężar całym ciałem. Pchnęła je z całej siły.
+Joana pchnęła je z całej siły. Drzewo upadło z boku — z dala od przyjaciół.
 
-Drzewo upadło z boku — z dala od jej przyjaciół. Wszyscy byli bezpieczni!
-
-Joana zrobiła to. Ale jak?
+Wszyscy byli bezpieczni!

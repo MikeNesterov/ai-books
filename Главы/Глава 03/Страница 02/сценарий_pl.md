@@ -1,9 +1,7 @@
 # Strona 02 — tekst po polsku
 
-Biblioteka była mała i stara. Pachniała papierem i starymi książkami.
+W bibliotece Joana wzięła dużo starych ksiąg.
 
-Joana wzięła wszystko, co mogło pomóc — księgi mitologii, encyklopedie, legendy różnych ludów. Stosy ksiąg piętrzyły się na stole.
+Bibliotekarka zapytała: — Projekt szkolny?
 
-— Projekt badawczy? — uśmiechnęła się stara bibliotekarka.
-
-— Można tak powiedzieć — odpowiedziała Joana.
+Joana tylko się uśmiechnęła.

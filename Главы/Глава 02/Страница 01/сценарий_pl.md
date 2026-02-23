@@ -1,11 +1,9 @@
 # Strona 01 — tekst po polsku
 
-Kiedy Joana opuściła łuk, myślała, że już po wszystkim.
+Tobiasz nie zniknął. Jego ciemna moc szukała nowego miejsca.
 
-Ale Tobiasz nie zniknął. Jego ciemna energia szukała nowego miejsca.
+Znalazła aparat Joany.
 
-I je znalazła.
-
-Aparat fotograficzny Joany błysnął zielonym światłem. Raz. Ledwo widoczny błysk.
+Obiektyw błysnął zielono — raz, ledwo widocznie.
 
 Joana tego nie zauważyła.

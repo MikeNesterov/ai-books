@@ -1,11 +1,9 @@
 # Strona 04 — tekst po polsku
 
-Przed nią stał Tobiasz. Ten sam potwór, który zniszczył dżunglę.
+Joana i Tobiasz spojrzeli na siebie.
 
-Joana zamknęła oczy. Wzięła głęboki oddech.
+Joana zamknęła oczy, wzięła oddech — i w jej rękach pojawił się Łuk.
 
-Kiedy je otworzyła — w jej rękach był Łuk.
+Tobiasz patrzył na nią z zimną nienawiścią.
 
-Tobiasz patrzył na nią z zimną nienawiścią. Znał tę moc. Walczył z nią już dawno temu.
-
-Dwoje wrogów. Jeden park między nimi.
+Walka miała się zacząć.

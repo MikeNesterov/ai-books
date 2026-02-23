@@ -1,11 +1,9 @@
 # Strona 05 — tekst po polsku
 
-Joana zobaczyła ogromne drzewo. Spadało prosto na nią!
+Ogromne drzewo spadało prosto na Joanę!
 
-Było za duże i za ciężkie. Nie można było uciec.
+Było za duże. Nie można było uciec.
 
 Joana zamknęła oczy i zasłoniła głowę rękami.
 
-Czekała na uderzenie.
-
-Ale nic się nie stało.
+Czekała. Ale nic się nie stało.

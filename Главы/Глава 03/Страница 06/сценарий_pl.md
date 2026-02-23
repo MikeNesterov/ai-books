@@ -1,13 +1,7 @@
 # Strona 06 — tekst po polsku
 
-Joana czytała dalej — chciwie, strona po stronie.
+Joana znalazła najważniejszą stronę.
 
-I wtedy znalazła to.
+Pokazywała słabe miejsce Tobiasza — czerwony punkt w centrum jego piersi.
 
-Strona o Tobiaszu. Słowa pojawiały się w jej głowie jak tłumaczenie.
-
-„...jedyne słabe miejsce ducha leśnego to centrum jego piersi, gdzie bije jego ciemne serce..."
-
-Nad księgą pojawił się hologram Tobiasza. Tym razem w centrum jego ciała pulsował czerwony punkt.
-
-Joana patrzyła na niego z determinacją.
+Tam trzeba trafić, żeby go pokonać!

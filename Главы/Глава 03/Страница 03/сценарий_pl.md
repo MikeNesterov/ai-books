@@ -1,11 +1,9 @@
 # Strona 03 — tekst po polsku
 
-W domu Joana rozłożyła książki na stole.
+W domu Joana zobaczyła dziwną księgę.
 
-I wtedy zatrzymała się.
+Nie brała jej z biblioteki. Skąd się wzięła?
 
-Wśród ksiąg leżała jedna, której nie brała. Stara, w wytartej skórzanej okładce, ze złotymi literami: „Starożytna Księga Legend".
+Była stara, w skórzanej okładce, ze złotymi literami.
 
-Skąd się wzięła?
-
-Palce same wyciągnęły się ku okładce.
+Palce same wyciągnęły się ku niej.

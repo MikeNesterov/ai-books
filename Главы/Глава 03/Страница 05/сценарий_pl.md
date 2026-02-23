@@ -1,11 +1,9 @@
 # Strona 05 — tekst po polsku
 
-Joana drżącą ręką przewróciła stronę.
+Joana przewróciła stronę. Tobiasz zniknął.
 
-Tobiasz zniknął. Na jego miejscu pojawiły się złote promienie — dziesiątki świetlnych nici, splątanych jak żywe.
+Na jego miejscu pojawiły się złote nicie światła.
 
-Joana rozpoznała je natychmiast.
+To była jej moc! Mogła poruszać rzeczami siłą myśli.
 
-To była jej moc. Ta sama energia, która płynęła przez jej Łuk. Mogła poruszać przedmiotami siłą myśli.
-
-Księga o niej wiedziała. Księga wiedziała wszystko.
+Księga wiedziała o niej wszystko.

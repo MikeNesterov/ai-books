@@ -1,9 +1,9 @@
 # Strona 01 — tekst po polsku
 
-Następnego ranka Joana siedziała przy oknie i myślała.
+Joana miała wiele pytań.
 
-Kim jest Tobiasz? Skąd pochodzi jej moc? Dlaczego Łuk pojawia się sam?
+Kim jest Tobiasz? Skąd pochodzi jej moc?
 
-Przypomniała sobie starą bibliotekę niedaleko domu. Może tam znajdzie odpowiedzi?
+Przypomniała sobie starą bibliotekę niedaleko domu.
 
-Narzuciła kurtkę i wyszła.
+Może tam znajdzie odpowiedzi?

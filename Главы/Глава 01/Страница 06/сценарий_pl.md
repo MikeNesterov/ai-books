@@ -1,11 +1,9 @@
 # Strona 06 — tekst po polsku
 
-Zamiast ciemności pojawił się blask!
+Zamiast ciemności — złoty blask!
 
-W rękach Joany zmaterializował się magiczny łuk. Był złoty i piękny. Joana sama nie wiedziała, skąd go wzięła.
+W rękach Joany pojawił się magiczny Łuk. Był złoty i piękny.
 
-Ale jej palce same chwyciły cięciwę.
+Palce same chwyciły cięciwę. Na niej pojawiła się złota strzała.
 
-Naciągnęła łuk. Na cięciwie pojawiła się strzała ze złotego światła.
-
-Coś w niej się przebudziło.
+Joana poczuła, że coś w niej się przebudziło.

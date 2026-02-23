@@ -5,174 +5,110 @@ const path = require('path');
 // Polish texts for chapters 3 and 4 (generated inline)
 const polishTexts = {
   'Глава 03': {
-    'Страница 01': `Następnego ranka Joana siedziała przy oknie i myślała.
+    'Страница 01': `Joana miała wiele pytań.
 
-Kim jest Tobiasz? Skąd pochodzi jej moc? Dlaczego Łuk pojawia się sam?
+Kim jest Tobiasz? Skąd pochodzi jej moc?
 
-Przypomniała sobie starą bibliotekę niedaleko domu. Może tam znajdzie odpowiedzi?
+Przypomniała sobie starą bibliotekę niedaleko domu.
 
-Narzuciła kurtkę i wyszła.`,
+Może tam znajdzie odpowiedzi?`,
 
-    'Страница 02': `Biblioteka była mała i stara. Pachniała papierem i starymi książkami.
+    'Страница 02': `W bibliotece Joana wzięła dużo starych ksiąg.
 
-Joana wzięła wszystko, co mogło pomóc — księgi mitologii, encyklopedie, legendy różnych ludów. Stosy ksiąg piętrzyły się na stole.
+Bibliotekarka zapytała: — Projekt szkolny?
 
-— Projekt badawczy? — uśmiechnęła się stara bibliotekarka.
+Joana tylko się uśmiechnęła.`,
 
-— Można tak powiedzieć — odpowiedziała Joana.`,
+    'Страница 03': `W domu Joana zobaczyła dziwną księgę.
 
-    'Страница 03': `W domu Joana rozłożyła książki na stole.
+Nie brała jej z biblioteki. Skąd się wzięła?
 
-I wtedy zatrzymała się.
+Była stara, w skórzanej okładce, ze złotymi literami.
 
-Wśród ksiąg leżała jedna, której nie brała. Stara, w wytartej skórzanej okładce, ze złotymi literami: „Starożytna Księga Legend".
+Palce same wyciągnęły się ku niej.`,
 
-Skąd się wzięła?
+    'Страница 04': `Joana otworzyła księgę.
 
-Palce same wyciągnęły się ku okładce.`,
+Nad stronami pojawił się Tobiasz — z niebieskiego światła. Unosił się w powietrzu i powoli się obracał.
 
-    'Страница 04': `Joana otworzyła księgę — i świat zamarł.
+Księga pokazywała prawdę.`,
 
-Nad pożółkłymi stronami pojawił się blask. Najpierw mały. Potem większy. I nagle Joana odskoczyła.
+    'Страница 05': `Joana przewróciła stronę. Tobiasz zniknął.
 
-Tobiasz.
+Na jego miejscu pojawiły się złote nicie światła.
 
-Jego postać unosiła się nad książką — przezroczysta, zbudowana z niebieskiego światła. Powoli się obracał.
+To była jej moc! Mogła poruszać rzeczami siłą myśli.
 
-To nie była iluzja. Księga pokazywała prawdę.`,
+Księga wiedziała o niej wszystko.`,
 
-    'Страница 05': `Joana drżącą ręką przewróciła stronę.
+    'Страница 06': `Joana znalazła najważniejszą stronę.
 
-Tobiasz zniknął. Na jego miejscu pojawiły się złote promienie — dziesiątki świetlnych nici, splątanych jak żywe.
+Pokazywała słabe miejsce Tobiasza — czerwony punkt w centrum jego piersi.
 
-Joana rozpoznała je natychmiast.
+Tam trzeba trafić, żeby go pokonać!`,
 
-To była jej moc. Ta sama energia, która płynęła przez jej Łuk. Mogła poruszać przedmiotami siłą myśli.
+    'Страница 07': `Ostatnie strony pokazały trzy kryształy.
 
-Księga o niej wiedziała. Księga wiedziała wszystko.`,
+Złoty, niebieski i zielony.
 
-    'Страница 06': `Joana czytała dalej — chciwie, strona po stronie.
+Jeden jest już w Łuku Joany. Ale gdzieś na świecie są jeszcze dwa.
 
-I wtedy znalazła to.
-
-Strona o Tobiaszu. Słowa pojawiały się w jej głowie jak tłumaczenie.
-
-„...jedyne słabe miejsce ducha leśnego to centrum jego piersi, gdzie bije jego ciemne serce..."
-
-Nad księgą pojawił się hologram Tobiasza. Tym razem w centrum jego ciała pulsował czerwony punkt.
-
-Joana patrzyła na niego z determinacją.`,
-
-    'Страница 07': `Ostatnie strony były najbardziej tajemnicze.
-
-Na pergaminie narysowany był starożytny symbol: trzy kryształy ułożone w trójkąt. Złoty, niebieski i zielony.
-
-Nad księgą pojawiła się ostatnia wizja — trzy wirujące kryształy.
-
-„...kto zbierze wszystkie trzy..."
-
-Tekst się urywał.
-
-Joana spojrzała na swoje ręce. Złoty kryształ — w jej Łuku. Ale są jeszcze dwa...
-
-Zamknęła księgę. Czas działać.`
+Joana zamknęła księgę. Wiedziała, co robić dalej.`
   },
   'Глава 04': {
-    'Страница 01': `Joana zamknęła Starożytną Księgę i podeszła do okna.
+    'Страница 01': `Joana chciała ćwiczyć swoją moc.
 
-Miasto żyło swoim zwykłym życiem. Nikt nie wiedział, że kilka dni temu w parku starożytny duch lasu próbował wszystko zniszczyć.
+Poszła do zniszczonego parku. Pnącza Tobiasza były tam — słabe, ale żywe.
 
-„Wiedza to jedno — pomyślała. — Ale co z tego, jeśli nie kontroluję swojej mocy?"
+— Dość czytania — powiedziała. — Czas działać.`,
 
-Zacisnęła pięść.
+    'Страница 02': `Park był zniszczony. Ławki wywrócone, asfalt popękany.
 
-Dość czytania. Czas działać.`,
+Z pęknięć wystawały suche pnącza.
 
-    'Страница 02': `Park przywitał ją ciszą. Dziwną, nienaturalną ciszą.
+Joana dotknęła jednego. Zadrżało.
 
-Joana szła główną aleją i patrzyła na ślady zniszczeń. Wywrócone ławki. Popękany asfalt. Z głębokich szczelin wystawały grube, suche pnącza.
+Moc Tobiasza wciąż tu była!`,
 
-Przykucnęła i ostrożnie dotknęła jednego z nich.
+    'Страница 03': `Joana wywołała Łuk i wystrzeliła w pnącze.
 
-Pnącze zadrżało. Słabo, ledwo zauważalnie.
+Strzała przeleciała przez nie — jakby pnącza tam nie było.
 
-Moc Tobiasza była tu. Osłabiona — ale żywa.
+Joana opuściła Łuk. Dlaczego to nie działa?`,
 
-„Idealne do ćwiczeń" — pomyślała Joana.`,
+    'Страница 04': `Joana usiadła na ławce i pomyślała.
 
-    'Страница 03': `Joana wyciągnęła rękę. Zamknęła oczy. Skupiła się.
+Przypomniała sobie słowa z Księgi: "Szukaj korzenia."
 
-Na początku — nic. Potem — znajome ciepło w dłoni. Złote iskry zakręciły się wokół palców i Łuk pojawił się w jej ręce.
+Spojrzała na pnącza. Wszystkie rosły z jednego miejsca!
 
-„No to próbujemy."
+— Nie w gałęzie. W korzeń! — szepnęła.`,
 
-Naciągnęła cięciwę. Złota strzała zmaterializowała się w powietrzu.
+    'Страница 05': `Joana znalazła centrum — węzeł wszystkich korzeni.
 
-Strzał!
+Cofnęła się dziesięć kroków. Wycelowała.
 
-Strzała przeleciała przez pnącze — jakby go tam nie było. Pnącze drgnęło, ale nie zostało trafione.
+Wydech. Strzał!
 
-Joana opuściła Łuk. To było trudniejsze niż myślała.`,
-
-    'Страница 04': `Po trzeciej nieudanej próbie Joana usiadła na ławce.
-
-Co robi nie tak? Strzały lecą celnie. Moc jest. Ale pnącza jakby jej nie zauważają.
-
-I wtedy sobie przypomniała. Słowa z Księgi: „Moc ciemności jest jak drzewo. Gałęzie można ciąć w nieskończoność, ale drzewo będzie stało. Szukaj korzenia."
-
-Joana rozejrzała się. Wszystkie pnącza rosły z jednego miejsca!
-
-— Nie w gałęzie. W korzeń — szepnęła.`,
-
-    'Страница 05': `Joana go znalazła. Centrum.
-
-Miejsce, gdzie wszystkie pnącza zbiegały się w jeden punkt. Głęboka szczelina w ziemi, z której wystawał węzeł splecionych korzeni — gruby, pulsujący słabym ciemnym blaskiem.
-
-Serce całej ciemnej sieci.
-
-Joana cofnęła się o dziesięć kroków. Łuk pojawił się natychmiast.
-
-Naciągnęła cięciwę. Złota strzała zaświeciła mocniej niż zwykle.
-
-Wydech. Strzał.
-
-Strzała wbiła się dokładnie w środek węzła. Złoty blask popłynął po pnączach.
+Strzała wbiła się w środek węzła. Złoty blask popłynął po wszystkich pnączach.
 
 Udało się!`,
 
-    'Страница 06': `Coś się zmieniło.
+    'Страница 06': `Joana uniosła rękę.
 
-Joana poczuła to zanim zobaczyła. Ciepła fala przeszła od czubków palców w górę ręki. Jakby niewidzialna nić połączyła ją z pnączami.
+Pnącza uniosły się razem z nią!
 
-Powoli uniosła wolną rękę.
+Opuściła rękę — opadły posłusznie na ziemię.
 
-Pnącza na ziemi poruszyły się.
+— Działa! — śmiała się Joana. Teraz rządziła pnączami Tobiasza!`,
 
-Joana wstrzymała oddech. Podniosła rękę wyżej. Pnącza ciągnęły się za nią jak posłuszne.
+    'Страница 07': `Nagle wiatr się zmienił. Zimny i ostry.
 
-— Działa! — szepnęła. — Działa!
+Joana podniosła głowę. Nad lasem widać było ciemną postać.
 
-Zrobiła powolny krąg dłonią. Pnącza zakręciły się razem z nią. Opuściła rękę — opadły na ziemię.
+Wysoką. Ciemną. Nieruchomą.
 
-Joana się roześmiała. Nareszcie wiedziała, jak działa ta moc.`,
-
-    'Страница 07': `Joana wciąż się uśmiechała.
-
-Ale wtedy nadszedł wiatr.
-
-Nie ciepły miejski wiatr. Zimny. Ostry. Pachnący czymś ciemnym i starym. Pnącza na ziemi zamarły i skuliły się.
-
-Joana uniosła głowę.
-
-Niebo się zmieniło. Ciemne chmury zbierały się na horyzoncie — tam, za miastem, gdzie zaczynał się las. I tam, nad wierzchołkami drzew, w gęstniejącym mroku wznosiła się postać.
-
-Wysoka. Ciemna. Nieruchoma.
-
-Tobiasz.
-
-Łuk pojawił się w ręce sam.
-
-On poczuł. On idzie.`
+Tobiasz. On poczuł. On idzie.`
   }
 };
 

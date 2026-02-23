@@ -1,11 +1,7 @@
 # Strona 01 — tekst po polsku
 
-Joana zamknęła Starożytną Księgę i podeszła do okna.
+Joana chciała ćwiczyć swoją moc.
 
-Miasto żyło swoim zwykłym życiem. Nikt nie wiedział, że kilka dni temu w parku starożytny duch lasu próbował wszystko zniszczyć.
+Poszła do zniszczonego parku. Pnącza Tobiasza były tam — słabe, ale żywe.
 
-„Wiedza to jedno — pomyślała. — Ale co z tego, jeśli nie kontroluję swojej mocy?"
-
-Zacisnęła pięść.
-
-Dość czytania. Czas działać.
+— Dość czytania — powiedziała. — Czas działać.

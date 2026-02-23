@@ -1,10 +1,8 @@
 # Strona 03 — tekst po polsku
 
-Głęboko w lesie płonął ogień. Ale to był dziwny ogień.
+Głęboko w lesie płonął dziwny ogień — zielony i pomarańczowy.
 
-Płomienie były zielone i pomarańczowe. Dym kręcił się wokół szamana jak żywy.
-
-Szaman wiedział, co robi. Odprawiał starożytny rytuał. Chciał obudzić coś bardzo potężnego.
+Szaman odprawiał starożytny rytuał. Chciał obudzić coś potężnego.
 
 Bębny grały coraz głośniej.
 
