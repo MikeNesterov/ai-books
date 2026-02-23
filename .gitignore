@@ -20,3 +20,9 @@ Thumbs.db
 # Temporary files
 *.tmp
 *.bak
+
+*.pdf
+node_modules/
+
+package-lock.json
+package.json
