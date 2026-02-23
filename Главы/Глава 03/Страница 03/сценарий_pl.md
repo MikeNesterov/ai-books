@@ -1,9 +1,11 @@
 # Strona 03 — tekst po polsku
 
-W domu Joana zobaczyła dziwną księgę.
+W domu Joana rozłożyła książki na stole i zabrała się do pracy. Mity Amazonii, duchy lasu, dawne wierzenia...
 
-Nie brała jej z biblioteki. Skąd się wzięła?
+I wtedy zamarła.
 
-Była stara, w skórzanej okładce, ze złotymi literami.
+Pośród ksiąg leżała jedna, której na pewno nie brała. Stara, w wytartej skórzanej oprawie, ze złotymi literami na okładce: „Starożytna Księga Legend".
 
-Palce same wyciągnęły się ku niej.
+Skąd się wzięła? Joana nie pamiętała, żeby ją brała z półki. Ale księga była tutaj — ciężka, prawdziwa, pachnąca wiekami.
+
+Palce same wyciągnęły się ku okładce.

@@ -1,9 +1,11 @@
 # Strona 07 — tekst po polsku
 
-Joana wystrzeliła. Strzała uderzyła w drzewo i zamieniła się w złotą sieć.
+Strzała zerwała się z cięciwy — nie z świstem, lecz z niskim pomrukiem, od którego zadrżały kości.
 
-Drzewo zatrzymało się w powietrzu!
+Nie przebiła pnia. Uderzyła w niego — i rozsypała się siecią złotych błyskawic, które oplótły drzewo jak żywe pnącza. Grawitacja jakby znikła. Wielotonny kolos, lecący w dół, zawisł metr nad ziemią.
 
-Joana pchnęła je z całej siły. Drzewo upadło z boku — z dala od przyjaciół.
+Joana czuła jego ciężar. Nie rękami — całym ciałem. Wiedziała: wystarczy zapragnąć.
 
-Wszyscy byli bezpieczni!
+Z wysiłkiem pchnęła pień w bok. Drzewo runęło z hukiem kilka kroków dalej. Ale cały zespół był cały.
+
+Cisza. Deszcz. Oddech ocalałych.

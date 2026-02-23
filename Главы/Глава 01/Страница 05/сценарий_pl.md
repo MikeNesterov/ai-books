@@ -1,9 +1,11 @@
 # Strona 05 — tekst po polsku
 
-Ogromne drzewo spadało prosto na Joanę!
+Krzyk uwięził się w gardle.
 
-Było za duże. Nie można było uciec.
+Olbrzymi cień przykrył polanę — i Joana go zobaczyła. Pradawny pień, gruby jak dom, walił się prosto na nią. Padał powoli, jak w koszmarze, a jednocześnie zbyt szybko — zbyt szybko, żeby uciec.
 
-Joana zamknęła oczy i zasłoniła głowę rękami.
+Nogi odmówiły posłuszeństwa. Joana stała.
 
-Czekała. Ale nic się nie stało.
+Pień leciał. Ziemia drżała. Joana zacisnęła powieki i zakryła głowę rękami — jakby dwie ręce mogły zatrzymać coś, co ważyło kilka ton.
+
+Ciemność. Cios powinien był nadejść. Ale go nie było.

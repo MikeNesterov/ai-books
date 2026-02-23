@@ -1,7 +1,15 @@
 # Strona 03 — tekst po polsku
 
-Joana wywołała Łuk i wystrzeliła w pnącze.
+Joana wstała, cofnęła się kilka kroków i wyciągnęła rękę. Zamknęła oczy. Skupiła się.
 
-Strzała przeleciała przez nie — jakby pnącza tam nie było.
+Najpierw — nic. Potem — znajome ciepło w dłoni. Złote iskry zawirowały wokół palców i Łuk zmaterializował się w jej ręce. Ciepły, pulsujący, żywy.
 
-Joana opuściła Łuk. Dlaczego to nie działa?
+— No to spróbujemy.
+
+Naciągnęła świecącą cięciwę. Złota strzała utkała się z powietrza. Joana wymierzyła w najgrubsze pnącze.
+
+Strzał!
+
+Strzała przeliciała przez pnącze jak przez dym. Błysnęła i znikła, nie zostawiając śladu. Pnącze szarpnęło — ale ze strachu, nie z trafienia.
+
+Joana opuściła Łuk. Nie chybiła w przestrzeni — strzała poszła celnie. Ale energia nie chwyciła.

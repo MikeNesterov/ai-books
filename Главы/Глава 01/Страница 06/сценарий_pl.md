@@ -1,9 +1,13 @@
 # Strona 06 — tekst po polsku
 
-Zamiast ciemności — złoty blask!
+Zamiast ciemności rozbłysło światło.
 
-W rękach Joany pojawił się magiczny Łuk. Był złoty i piękny.
+To zdarzyło się naprawdę. W ułamku sekundy powietrze wokół jej dłoni zagęściło się, rozświetliło i stało się ciepłe. Palące, swojskie ciepło przeszyło dłonie.
 
-Palce same chwyciły cięciwę. Na niej pojawiła się złota strzała.
+W jej rękach był Łuk.
 
-Joana poczuła, że coś w niej się przebudziło.
+Smukły, utkany ze złotej energii i pociemniałego metalu. Joana nie myślała — palce same znalazły cięciwę. To był ruch nie przestraszonej dziewczyny, lecz kogoś innego. Kogoś, kto robił to tysiące razy.
+
+Naciągnęła cięciwę. Na niej pojawiła się strzała — ze czystego złotego światła.
+
+Wydech. Cel. Chwila przed strzałem.

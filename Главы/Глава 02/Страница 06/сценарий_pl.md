@@ -1,7 +1,13 @@
 # Strona 06 — tekst po polsku
 
-Joana zobaczyła, że wszystkie pnącza łączą się w jednym miejscu.
+Pnącza napierały ze wszystkich stron. Ale Joana nie panikuje — obserwuje.
 
-Wystrzeliła w to miejsce! Złota energia rozlała się po pnączach.
+Wszystkie pnącza ciągnęły się do jednego punktu. Nie osobne stworzenia — jedna sieć. Jedno źródło. Jedna słabość.
 
-Jedno po drugim — wszystkie pnącza upadły na ziemię.
+Joana naciągnęła cięciwę. Wystrzeliła nie w Tobiasza — w najbliższe pnącze.
+
+Strzała wbiła się w zielony łodyżek — i Joana to poczuła. Połączenie. Kontrolę. Władzę nad cudzą siłą. Jednym ruchem woli rzuciła pnącze na ziemię.
+
+Dalej — jak domino. Jedno za drugim, pnącza opadały po całym parku.
+
+Po chwili wszystko było skończone.

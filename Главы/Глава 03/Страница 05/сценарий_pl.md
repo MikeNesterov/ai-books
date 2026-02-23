@@ -1,9 +1,11 @@
 # Strona 05 — tekst po polsku
 
-Joana przewróciła stronę. Tobiasz zniknął.
+Drżącą ręką Joana przewróciła stronę.
 
-Na jego miejscu pojawiły się złote nicie światła.
+Hologram Tobiasza rozpłynął się i w jego miejscu pojawiła się nowa wizja. Złote promienie — dziesiątki świetlistych nici — miotały się nad księgą, splatając i rozchodząc jak żywe.
 
-To była jej moc! Mogła poruszać rzeczami siłą myśli.
+Joana rozpoznała je w jednej chwili.
 
-Księga wiedziała o niej wszystko.
+To była jej moc. Ta sama energia, która płynęła przez Łuk i strzały. Jasna magia telekinetyczna — zdolność do poruszania przedmiotami siłą myśli.
+
+Księga o niej wiedziała. Księga wiedziała wszystko.

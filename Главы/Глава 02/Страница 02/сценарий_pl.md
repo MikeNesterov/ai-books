@@ -1,9 +1,11 @@
 # Strona 02 — tekst po polsku
 
-Joana przyszła do parku żeby się uspokoić.
+Minął jeden dzień. Miasto żyło swoim zwykłym życiem, jakby nic się nie stało. Ale dla Joany świat stał się inny.
 
-Nagle wiatr się zmienił — zimny i dziwny. Drzewa zgięły się. Ludzie uciekli.
+Przyszła do miejskiego parku szukając ciszy. Znajome alejki, zapach trawy, ławki — wszystko, co kiedyś uspokajało. Byle nie myśleć. Byle nie pamiętać dżungli.
 
-Park opustoszał w kilka sekund.
+Wtedy wiatr się zmienił.
 
-Została tylko Joana.
+Nie miejska bryza — coś innego. Zimne, przeszywające, pachnące mokrą ziemią i zgniłymi liśćmi. Drzewa wokół zaszumiały zbyt ostro. Korony wygięły się nienaturalnie. Przechodnie nagle stanęli — i pobiegli. Bez słowa, bez wyjaśnień.
+
+Park opustoszał w kilka sekund. Została tylko Joana.

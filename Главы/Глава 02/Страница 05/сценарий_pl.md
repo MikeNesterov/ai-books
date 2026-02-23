@@ -1,7 +1,11 @@
 # Strona 05 — tekst po polsku
 
-Tobiasz uderzył nogą w ziemię. Asfalt pękł!
+Tobiasz uderzył pierwszy.
 
-Z pęknięć wyползły zielone pnącza — jak węże. Pędziły w stronę Joany.
+Jego ogromna noga runęła na ziemię z siłą trzęsienia ziemi. Asfalt pękł, rozchodząc się pajęczyną spękań. Ławki podskoczyły. Latarnie się zakołysały. Sama ziemia wydała z siebie jękliwy dźwięk.
 
-Joana uniosła Łuk.
+Z pęknięć, jak węże z nor, wypełzły pnącza. Żywe, giętkie, zielone — sięgały ku Joanie z przerażającą szybkością, wijąc się i splatając.
+
+Tobiasz nie zamierzał walczyć uczciwie. Chciał złapać. Unieruchomić. I Joana zrozumiała to w ułamku sekundy.
+
+Uniosła Łuk.

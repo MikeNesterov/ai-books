@@ -1,11 +1,17 @@
 # Strona 05 — tekst po polsku
 
-Joana znalazła centrum — węzeł wszystkich korzeni.
+Joana go znalazła. Centrum.
 
-Cofnęła się dziesięć kroków. Wycelowała.
+Miejsce, gdzie wszystkie pnącza zbiegały się w jednym punkcie. Głęboka, prawie idealnie okrągła szczelina w ziemi, z której sterczał węzeł splecionych korzeni — gruby, pulsujący słabą ciemną poświatą.
 
-Wydech. Strzał!
+Serce. Korzeń całej tej mrocznej sieci.
 
-Strzała wbiła się w środek węzła. Złoty blask popłynął po wszystkich pnączach.
+Joana cofnęła się dziesięć kroków. Wyciągnęła rękę. Łuk pojawił się natychmiast — jakby poczuł, że tym razem wszystko będzie inaczej.
+
+Naciągnęła cięciwę. Złota strzała zaświeciła jaśniej niż zwykle.
+
+Wydech. Strzał.
+
+Strzała wbiła się dokładnie w środek węzła. Złota poświata spłynęła po pnączach, rozlewając się od centrum ku krawędziom jak światło po żyłach.
 
 Udało się!

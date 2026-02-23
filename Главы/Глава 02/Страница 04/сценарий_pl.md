@@ -1,9 +1,13 @@
 # Strona 04 — tekst po polsku
 
-Joana i Tobiasz spojrzeli na siebie.
+Czas się zatrzymał.
 
-Joana zamknęła oczy, wzięła oddech — i w jej rękach pojawił się Łuk.
+Stał przed nią On. Tobiasz. Ten sam, od którego furii trzęsły się dżungle, łamały wiekowe drzewa. Teraz — w miejskim parku. Dwa kroki dalej.
 
-Tobiasz patrzył na nią z zimną nienawiścią.
+W głowie Joany przemknęły obrazy: padający pień, błysk złotego światła, ciepło w dłoniach. Zamknęła oczy. Wdech. Wydech.
 
-Walka miała się zacząć.
+Kiedy je otworzyła — w rękach był Łuk.
+
+Tobiasz patrzył na nią. W jego pradawnych oczach nie było ani zdziwienia, ani strachu — tylko zimna, pierwotna nienawiść. Znał tę siłę. Znał ją zbyt dobrze.
+
+Dwoje wrogów. Dwa światy. Jeden park między nimi.

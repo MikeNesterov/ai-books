@@ -1,9 +1,9 @@
 # Strona 01 — tekst po polsku
 
-Joana była fotografką. Pojechała do dżungli Amazonii robić zdjęcia.
+Dżungla Amazonii żyła własnym życiem. Wilgotne powietrze, zapach ziemi, głosy ptaków, których Joana nigdy wcześniej nie słyszała. Nie mogła sobie wymarzyć lepszego miejsca.
 
-Robiła zdjęcia drzewom, kwiatom i pająkom. Wszystko było piękne.
+Aparat był zawsze gotowy. Joana robiła zdjęcie za zdjęciem — korony drzew, gdzie zachód zamieniał się w złoto, mech pokrywający każdy kamień.
 
-To było jej wymarzone miejsce!
+To była jej wymarzona wyprawa. Rok przygotowań, trzy loty, tydzień łodzią w górę rzeki — i wreszcie tutaj.
 
-Ale las już ją zauważył.
+Jeszcze nie wiedziała, że las już ją zauważył.

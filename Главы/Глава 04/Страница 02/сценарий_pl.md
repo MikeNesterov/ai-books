@@ -1,9 +1,11 @@
 # Strona 02 — tekst po polsku
 
-Park był zniszczony. Ławki wywrócone, asfalt popękany.
+Park powitał ją ciszą. Dziwną, nienaturalną ciszą — ani ptaków, ani szelestów. Nawet wiatr omijał to miejsce z daleka.
 
-Z pęknięć wystawały suche pnącza.
+Joana szła główną alejką, przyglądając się śladom zniszczeń. Ławki wywrócone. Latarnie powygięte jak plastelina. Asfalt zdębiały od spękań, z których sterczały grube, sękowate korzenie.
 
-Joana dotknęła jednego. Zadrżało.
+Przykucnęła i ostrożnie dotknęła jednego z pnączy.
 
-Moc Tobiasza wciąż tu była!
+Pnącze drgnęło. Słabo, ledwo zauważalnie — ale drgnęło.
+
+Moc Tobiasza była tu. Osłabiona, prawie wygasła — ale żywa. Idealna do ćwiczeń.

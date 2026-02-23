@@ -1,9 +1,11 @@
 # Strona 04 — tekst po polsku
 
-Joana usiadła na ławce i pomyślała.
+Po trzeciej nieudanej próbie Joana usiadła na ocalałej ławce i wpatrzyła się w swoje ręce. Łuk rozpłynął się — zawsze znikał, gdy przestawała się skupiać.
 
-Przypomniała sobie słowa z Księgi: "Szukaj korzenia."
+Co robi nie tak? Strzały lecą celnie. Moc jest. Ale pnącza Tobiasza jakby jej ataków nie zauważają.
 
-Spojrzała na pnącza. Wszystkie rosły z jednego miejsca!
+I wtedy sobie przypomniała. Słowa z Księgi, napisane drobnym pismem na marginesie: „Siła ciemności jest jak drzewo. Gałęzie można ciąć w nieskończoność, ale drzewo będzie stało. Szukaj korzenia. Szukaj centrum, gdzie wszystko się łączy."
 
-— Nie w gałęzie. W korzeń! — szepnęła.
+Joana rozejrzała się. Pnącza rozchodziły się we wszystkie strony — ale wszystkie skądś wyrastały. Gdzieś tu musi być punkt, z którego wychodzą. Jeden wspólny korzeń.
+
+— Nie w gałęzie. W korzeń — szepnęła Joana.
